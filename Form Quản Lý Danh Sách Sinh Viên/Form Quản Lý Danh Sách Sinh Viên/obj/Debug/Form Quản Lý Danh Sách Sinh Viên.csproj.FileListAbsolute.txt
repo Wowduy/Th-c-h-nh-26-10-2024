@@ -1,0 +1,11 @@
+C:\Users\HClaptop\source\repos\Form Quản Lý Danh Sách Sinh Viên\Form Quản Lý Danh Sách Sinh Viên\bin\Debug\Form Quản Lý Danh Sách Sinh Viên.exe.config
+C:\Users\HClaptop\source\repos\Form Quản Lý Danh Sách Sinh Viên\Form Quản Lý Danh Sách Sinh Viên\bin\Debug\Form Quản Lý Danh Sách Sinh Viên.exe
+C:\Users\HClaptop\source\repos\Form Quản Lý Danh Sách Sinh Viên\Form Quản Lý Danh Sách Sinh Viên\bin\Debug\Form Quản Lý Danh Sách Sinh Viên.pdb
+C:\Users\HClaptop\source\repos\Form Quản Lý Danh Sách Sinh Viên\Form Quản Lý Danh Sách Sinh Viên\obj\Debug\Form Quản Lý Danh Sách Sinh Viên.csproj.AssemblyReference.cache
+C:\Users\HClaptop\source\repos\Form Quản Lý Danh Sách Sinh Viên\Form Quản Lý Danh Sách Sinh Viên\obj\Debug\Form Quản Lý Danh Sách Sinh Viên.csproj.SuggestedBindingRedirects.cache
+C:\Users\HClaptop\source\repos\Form Quản Lý Danh Sách Sinh Viên\Form Quản Lý Danh Sách Sinh Viên\obj\Debug\Form_Quản_Lý_Danh_Sách_Sinh_Viên.Form1.resources
+C:\Users\HClaptop\source\repos\Form Quản Lý Danh Sách Sinh Viên\Form Quản Lý Danh Sách Sinh Viên\obj\Debug\Form_Quản_Lý_Danh_Sách_Sinh_Viên.Properties.Resources.resources
+C:\Users\HClaptop\source\repos\Form Quản Lý Danh Sách Sinh Viên\Form Quản Lý Danh Sách Sinh Viên\obj\Debug\Form Quản Lý Danh Sách Sinh Viên.csproj.GenerateResource.cache
+C:\Users\HClaptop\source\repos\Form Quản Lý Danh Sách Sinh Viên\Form Quản Lý Danh Sách Sinh Viên\obj\Debug\Form Quản Lý Danh Sách Sinh Viên.csproj.CoreCompileInputs.cache
+C:\Users\HClaptop\source\repos\Form Quản Lý Danh Sách Sinh Viên\Form Quản Lý Danh Sách Sinh Viên\obj\Debug\Form Quản Lý Danh Sách Sinh Viên.exe
+C:\Users\HClaptop\source\repos\Form Quản Lý Danh Sách Sinh Viên\Form Quản Lý Danh Sách Sinh Viên\obj\Debug\Form Quản Lý Danh Sách Sinh Viên.pdb
